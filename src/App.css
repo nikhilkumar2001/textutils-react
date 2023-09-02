@@ -1,0 +1,11 @@
+body {
+    background-image: url(./124383.jpg);
+    color: aliceblue;
+}
+.mb-3{
+    background-color: rgba(19, 19, 19, 0.599);
+}
+#mybox{
+    background-color: rgba(96, 90, 90, 0.715);
+    color: aliceblue ;
+}
